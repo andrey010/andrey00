@@ -2,13 +2,13 @@
 <h3 align="center">Full-Stack Engineer & AWS Certified Developer</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01d5a7d6e8c7b6a7d8" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~0174aae464393dbd95" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-TOP_RATED-brightgreen?style=for-the-badge" alt="Upwork Top Rated">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01d5a7d6e8c7b6a7d8" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~0174aae464393dbd95" target="_blank">
     <img src="https://img.shields.io/badge/Upwork_Hours-3,700+-blue?style=for-the-badge" alt="Upwork Hours">
   </a>
-  <a href="https://www.credly.com/badges/c5f8b9e1-e2a1-4d1a-8c9a-7e6e5f8b9e1a" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/181d9284-1e03-45d7-b8e4-4190fcac54d3" target="_blank">
     <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-orange?style=for-the-badge&logo=amazonaws" alt="AWS Certified Developer">
   </a>
 </p>
@@ -64,7 +64,7 @@ Here are the key technologies I work with daily:
 
 ### 📜 Certifications
 
-- 🥇 **[AWS Certified Developer – Associate](https://www.credly.com/badges/c5f8b9e1-e2a1-4d1a-8c9a-7e6e5f8b9e1a)**
+- 🥇 **[AWS Certified Developer – Associate](https://www.credly.com/earner/earned/badge/181d9284-1e03-45d7-b8e4-4190fcac54d3)**
 - 🥈 **Upwork Skill Certification - Javascript Back-end Development**
 - 🥉 Multiple IBM certifications in Cloud Computing, Software Engineering, and Python.
 
